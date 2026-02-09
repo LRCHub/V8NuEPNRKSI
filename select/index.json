@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "8.8",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-09T14:47:45.189047Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8.8 - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_8.8_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life In A Day (Live @ Paris Theatre, London - 8\u00008\u000079)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/02_Life_In_A_Day_(Live_@_Paris_Theatre,_London_-_8\u00008\u000079)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Savin' Me (Live at Buffalo Chip, Sturgis, SD, 8/8/2006)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/03_Savin'_Me_(Live_at_Buffalo_Chip,_Sturgis,_SD,_8_8_2006)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someday (Live at Buffalo Chip, Sturgis, SD, 8/8/2006)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/04_Someday_(Live_at_Buffalo_Chip,_Sturgis,_SD,_8_8_2006)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "8/8/G",
+      "artist": "Abyusif",
+      "has_synced": true,
+      "path": "select/05_8_8_G_Abyusif.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Savin' Me (Live at Buffalo Chip, Sturgis, SD, 8/8/2006)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/06_Savin'_Me_(Live_at_Buffalo_Chip,_Sturgis,_SD,_8_8_2006)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someday (Live at Buffalo Chip, Sturgis, SD, 8/8/2006)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/07_Someday_(Live_at_Buffalo_Chip,_Sturgis,_SD,_8_8_2006)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wondered (8:8-13)",
+      "artist": "Psallos",
+      "has_synced": false,
+      "path": "select/08_Wondered_(8_8-13)_Psallos.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Great American Whale - Live at The Mosque, Richmond, VA, 8/8/1989",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/09_Last_Great_American_Whale_-_Live_at_The_Mosque,_Richmond,_VA,_8_8_1989_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Jane - Live Encore at The Mosque, Richmond, VA, 8/8/1989",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/10_Sweet_Jane_-_Live_Encore_at_The_Mosque,_Richmond,_VA,_8_8_1989_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There Is No Time - Live at The Mosque, Richmond, VA, 8/8/1989",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/11_There_Is_No_Time_-_Live_at_The_Mosque,_Richmond,_VA,_8_8_1989_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk on the Wild Side - Live Encore at The Mosque, Richmond, VA, 8/8/1989",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/12_Walk_on_the_Wild_Side_-_Live_Encore_at_The_Mosque,_Richmond,_VA,_8_8_1989_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold On - Live at the Mosque, Richmond, VA, 8/8/1989",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/13_Hold_On_-_Live_at_the_Mosque,_Richmond,_VA,_8_8_1989_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold On (live at the Mosque, Richmond, VA, 8/8/1989)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/14_Hold_On_(live_at_the_Mosque,_Richmond,_VA,_8_8_1989)_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Great American Whale (live at The Mosque, Richmond, VA, 8/8/1989)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/15_Last_Great_American_Whale_(live_at_The_Mosque,_Richmond,_VA,_8_8_1989)_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweet Jane (live encore at The Mosque, Richmond, VA, 8/8/1989)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/16_Sweet_Jane_(live_encore_at_The_Mosque,_Richmond,_VA,_8_8_1989)_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "There Is No Time (live at The Mosque, Richmond, VA, 8/8/1989)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/17_There_Is_No_Time_(live_at_The_Mosque,_Richmond,_VA,_8_8_1989)_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Walk on the Wild Side (live encore at The Mosque, Richmond, VA, 8/8/1989)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/18_Walk_on_the_Wild_Side_(live_encore_at_The_Mosque,_Richmond,_VA,_8_8_1989)_Lou_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8.8",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_8.8_あたらよ.txt"
+    }
+  ]
+}
